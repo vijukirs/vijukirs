@@ -1,6 +1,6 @@
 -Mato3.py sisältää pääohjelman matopelille jota koneen "tekoäly" pelaa itsekseen, omena ilmestyy satunnaiseen kohtaan ja äly yrittää sitten syödä sen. Tarvittavia matopelin aliohjelmia on madontekoalynfunktiot nimisessä tiedostossa.
 
-Tetris2 sisältää tetris koodailun. Nuolilla ohjataan ja välilyönti kääntää palikan. Idea esittää  Ihan hauska värkkäily. Joku bugi siinä on oikean reunan lähellä kääntämisessä.
+Tetris2 sisältää tetris koodailun. Nuolilla ohjataan ja välilyönti kääntää palikan. Idea esittää palikoita matriisina on napattu jostain, mutta muuten koodi on omaani. Ihan hauska värkkäily. Joku bugi siinä on oikean reunan lähellä kääntämisessä.
 
 Korona.py sisältää simulaattorin joka kuvaa taudin leviämistä. Parametrejä muuttamalla saa erilaisia leviämisiä. Pallojen törmäilyt kuvaavat ihmisten kohtaamisia ja viereen vähän bugisesti kehittyvä kerroskaavio kuvaa populaation tilaa. Näin vastaavan pienemmän simulaation hesarin sivuilla joskus kun pandemia alkoi ja yritin tehdä silloin jotain samanlaista.
 
