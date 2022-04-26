@@ -9,7 +9,7 @@ PetoSaalis.py tarvitsee kaverikseen elain ja taulukonpiirtaja tiedostot.
 
 
 Kaikki nämä värkkäilyt olen tehnyt kokeilun halusta omaksi ilokseni. Mihinkään koodin siiteyteen en ole kiinnittänyt siis juurikaan huomiota.
-- 
+
 -   👋 Hi, I’m @vijukirs
 - 👀 I’m interested in solving nice little problems and learning things
 - 🌱 I’m currently learning, not too much, maybe Scala would be fun,
